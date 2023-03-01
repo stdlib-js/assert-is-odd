@@ -160,7 +160,7 @@ bool = isOdd( null );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-even`][@stdlib/assert/is-even]</span><span class="delimiter">: </span><span class="description">test if a value is an even number.</span>
+-   <span class="package-name">[`@stdlib/assert-is-even`][@stdlib/assert/is-even]</span><span class="delimiter">: </span><span class="description">test if a value is an even number.</span>
 
 </section>
 
