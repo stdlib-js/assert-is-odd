@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@esm/index.mjs';
+import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@esm/index.mjs';
+import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-esm/index.mjs';
 ```
 
 #### isOdd( value )
@@ -130,7 +130,7 @@ bool = isOdd.isObject( new Number( 5.0 ) );
 <script type="module">
 
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@esm/index.mjs';
-import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@esm/index.mjs';
+import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-esm/index.mjs';
 
 var bool = isOdd( 5.0 );
 // returns true
