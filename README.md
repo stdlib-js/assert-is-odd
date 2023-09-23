@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@deno/mod.js';
+import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@deno/mod.js';
+import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-deno/mod.js';
 ```
 
 #### isOdd( value )
@@ -125,7 +125,7 @@ bool = isOdd.isObject( new Number( 5.0 ) );
 
 ```javascript
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@deno/mod.js';
-import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@deno/mod.js';
+import isOdd from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-odd@v0.1.0-deno/mod.js';
 
 var bool = isOdd( 5.0 );
 // returns true
