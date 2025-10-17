@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-17)
+## Unreleased (2025-10-17)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#8082](https://github.com/stdlib-js/stdlib/issues/8082)
+[#8082](https://github.com/stdlib-js/stdlib/issues/8082), [#8244](https://github.com/stdlib-js/stdlib/issues/8244)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`61dddeb`](https://github.com/stdlib-js/stdlib/commit/61dddeb7d3bddb33aa7d60fb692baf43ec8f462d) - **chore:** remove unused ESLint directives from `@stdlib/assert` examples [(#8248)](https:-/github.com/stdlib-js/stdlib/pull/8248) _(by youzi-forge)_
 -   [`510bbde`](https://github.com/stdlib-js/stdlib/commit/510bbde67c11f367968bf73a63c8dfea99db6dde) - **chore:** fix JavaScript lint errors [(#8086)](https://github.com/stdlib-js/stdlib/pull/8086) _(by Payal Goswami, Athan Reines)_
 -   [`b44e0a7`](https://github.com/stdlib-js/stdlib/commit/b44e0a71e52944270193e56c6cff4507bb085144) - **docs:** clean-up TSDoc examples _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -40,11 +41,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Payal Goswami
 -   Philipp Burckhardt
+-   youzi-forge
 
 </section>
 
